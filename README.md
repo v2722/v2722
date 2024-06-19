@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![image](https://github.com/v2722/v2722/assets/142294146/742f40ae-412b-46d6-9e80-38d505cd731c)
 -->
 
 ~ I am  a third year CSE student at Institute of Technology at Nirma University.
@@ -21,5 +22,5 @@ Here are some ideas to get you started:
 
 ~ Also, I love learning new tech stacks.
 
-![image](https://github.com/v2722/v2722/assets/142294146/742f40ae-412b-46d6-9e80-38d505cd731c)
+
 
