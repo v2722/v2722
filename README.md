@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-An enthusiastic CSE undergrad with keen interest in DSA , CP , Full Stack Development and Data Science.
+<p align='center'>An enthusiastic CSE undergrad with keen interest in DSA , CP , Full Stack Development and Data Science.</p>
 
 
 
