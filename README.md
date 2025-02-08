@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![image](https://github.com/v2722/v2722/assets/142294146/742f40ae-412b-46d6-9e80-38d505cd731c)
 -->
-<h3 style="text-align: center;">An enthusiastic CSE undergrad with keen interest in Data Structures and Algorithms, Computer Programming, Full Stack Development, and Data Science.</h3>
+<h3 style="text-align: center;">An enthusiastic CSE undergrad with keen interest in Data Structures and Algorithms, Computer Programming, Full Stack Development, and Data Science !</h3>
 
 
 📫 Send me an email on **shahvatsala2204@gmail.com**
